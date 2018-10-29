@@ -1,0 +1,11 @@
+mark=int(input('Please enter your mark: '))
+if mark>=90:
+    print('You scored A')
+elif mark>=80 and mark<90:
+    print('You scored B')
+elif mark>=70 and mark<80:
+    print('You scored C')
+elif mark>=60 and mark<70:
+    print('You scored D')
+else:
+    print('You scored F')
