@@ -1,0 +1,4 @@
+i=0
+while i<30:
+  i+=1
+  print('I will always come to class on time')
