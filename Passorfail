@@ -1,0 +1,5 @@
+a=int(input('Please enter your mark:'))
+if a>=40:
+    print('You have passed')
+else:
+    print('You have failed')
