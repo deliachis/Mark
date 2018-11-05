@@ -1,0 +1,9 @@
+
+a="hello, world"
+#prints out a choosen character from the string
+print("a[1]=",a[1])  
+print("a[4]=",a[4])
+print("a[7]=",a[7])
+
+#another way to print them
+print(a[1],a[4],a[7])
